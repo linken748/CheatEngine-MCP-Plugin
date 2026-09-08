@@ -1,0 +1,17 @@
+bin/
+obj/
+*.obj
+*.exp
+*.lib
+*.pdb
+*.ilk
+*.user
+*.suo
+.vs/
+*.tmp
+*.log
+.venv/
+venv/
+__pycache__/
+*.pyc
+.tempmediaStorage/

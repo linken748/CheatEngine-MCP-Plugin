@@ -1,0 +1,8 @@
+LIBRARY ce_mcp_plugin
+EXPORTS
+    CEPlugin_GetVersion
+    CEPlugin_InitializePlugin
+    CEPlugin_DisablePlugin
+    GetVersion = CEPlugin_GetVersion
+    InitializePlugin = CEPlugin_InitializePlugin
+    DisablePlugin = CEPlugin_DisablePlugin
